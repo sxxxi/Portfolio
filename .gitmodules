@@ -1,16 +1,16 @@
-[submodule "auth"]
-	path = auth
-	url = ./auth
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:sxxxi/auth-service
 	branch = main
-[submodule "mediastore"]
-	path = mediastore
-	url = ./mediastore
+[submodule "mediastore-service"]
+	path = mediastore-service
+	url = git@github.com:sxxxi/mediastore-service
 	branch = main
 [submodule "portfolio-service"]
 	path = portfolio-service
-	url = ./portfolio-service
+	url = git@github.com:sxxxi/portfolio-service
 	branch = main
 [submodule "portfolio-ui-service"]
 	path = portfolio-ui-service
-	url = ./portfolio-ui-service
+	url = git@github.com:sxxxi/portfolio-ui-service
 	branch = main
