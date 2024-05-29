@@ -1,0 +1,16 @@
+[submodule "auth"]
+	path = auth
+	url = ./auth
+	branch = main
+[submodule "mediastore"]
+	path = mediastore
+	url = ./mediastore
+	branch = main
+[submodule "portfolio-service"]
+	path = portfolio-service
+	url = ./portfolio-service
+	branch = main
+[submodule "portfolio-ui-service"]
+	path = portfolio-ui-service
+	url = ./portfolio-ui-service
+	branch = main
